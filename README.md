@@ -1,12 +1,12 @@
 # FLI-Boot-Camp-2023
 
-Inní þessu gagnasafni geymum við gögn úr Boot Camp Neskaupstað 2023.
+Inni í þessu gagnasafni geymum við gögn úr Boot Camp Neskaupstað 2023.
 
-1. Við viljum fá valdar myndir inn, notið img möppuna.
-2. Listi yfir verkefni sem voru framkvæmd inn í sér skrár.
-3. Jón Þór ætlar að búa til CNC listaverk sem nær utan um ráðstefnuna.
+**Við viljum fá valdar myndir inn, notið img möppuna**
 
-## Punktar af töflu
+**Jón Þór ætlar að búa til CNC listaverk sem nær utan um ráðstefnuna.**
+
+## Punktar af töflu - TODO: Skjala hvert og eitt
 - Skjölun með git á Github
 - Almennar git æfingar
 - Bjórdælustandur
@@ -24,4 +24,10 @@ Inní þessu gagnasafni geymum við gögn úr Boot Camp Neskaupstað 2023.
   - Beehive
   - Aðstoð/vinnstofur með nemendum
 
+## Git
 
+Yfir kaffi og góðu vínarbrauði frá Nesbæ var hópnum komið í betra samband við Git/Github. 
+
+![Git](img/vinarbraud.jpg)
+
+![Hópurinn](img/hopur.jpg)
