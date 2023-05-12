@@ -8,7 +8,8 @@ Inni í þessu gagnasafni geymum við gögn úr Boot Camp Neskaupstað 2023.
 
 ## Punktar af töflu - TODO: Skjala hvert og eitt
 - Skjölun með git á Github
-- Almennar git æfingar
+  - Koma sem flestum inn á git
+  - Almennar git æfingar
 - Bjórdælustandur
 - Stöplar undir listaverk
 - Jesmonite afsteypun
