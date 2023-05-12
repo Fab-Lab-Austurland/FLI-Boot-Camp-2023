@@ -10,6 +10,7 @@ Inni í þessu gagnasafni geymum við gögn úr Boot Camp Neskaupstað 2023.
 - [x] Skjölun með git á Github
   - Koma sem flestum inn á git
   - Almennar git æfingar
+  - Organization
 - [ ] Bjórdælustandur
 - [ ] Stöplar undir listaverk
 - [ ] Jesmonite afsteypun
@@ -31,7 +32,7 @@ Yfir kaffi og góðu vínarbrauði frá Nesbæ var hópnum komið í betra samba
 
 ![Git](img/vinarbraud.jpg)
 
-Smiðjustjórum var kennt hvernig *Orginization* getur nýst hverri smiðju fyrir sig, þeir sem það kusu stofnuðu sín eigin og *fork*uðu [FMCU](https://github.com/Fab-Lab-Akureyri/fla-fmcu/) útgáfu [FLA](http://fla.is/).  
+Smiðjustjórum var kennt hvernig *Orginization* getur nýst hverri smiðju fyrir sig, þeir sem það kusu stofnuðu sín eigin og *fork*uðu [FMCU](https://github.com/Fab-Lab-Akureyri/fla-fmcu/) útgáfu [FLA](http://fla.is/) til að prófa sig áfram.
 
 ![Hópurinn](img/hopur.jpg)
 
