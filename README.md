@@ -14,9 +14,11 @@ Inni í þessu gagnasafni geymum við gögn úr Boot Camp Neskaupstað 2023.
 - [ ] Bjórdælustandur
 - [ ] Stöplar undir listaverk
 - [ ] Jesmonite afsteypun
-- [ ] ESP32/RP2040 yfirferð
-  - FABXIAO 
-  - FMCU
+- [x] ESP32/RP2040 yfirferð
+  - [x]FABXIAO 
+  - [x] FMCU
+   - Vestmannaeyjar
+   - Sauðárkrókur
 - [ ] Rafrásafræsun
   - KiCAD
   - FlatCAM Tool Database
