@@ -17,17 +17,18 @@ Inni í þessu gagnasafni geymum við gögn úr Boot Camp Neskaupstað 2023.
 - [x] ESP32/RP2040 yfirferð
   - [x] FABXIAO 
   - [x] FMCU
-   - [ ] Akureyri
-   - [ ] Austurland
-   - [ ] Blönduós
-   - [ ] Húsavík
-   - [ ] Höfn í Hornafirði
-   - [ ] Ísafjörður
-   - [ ] Reykjavík
-   - [x] Sauðárkrókur
-   - [x] Selfoss
-   - [ ] Strandir
-   - [ ] Vestmannaeyjar
+- Komin inn á FMCU: 
+- [ ] Akureyri
+- [ ] Austurland
+- [ ] Blönduós
+- [ ] Húsavík
+- [ ] Höfn í Hornafirði
+- [ ] Ísafjörður
+- [ ] Reykjavík
+- [x] Sauðárkrókur
+- [x] Selfoss
+- [ ] Strandir
+- [ ] Vestmannaeyjar
 - [ ] Rafrásafræsun
   - KiCAD
   - FlatCAM Tool Database
