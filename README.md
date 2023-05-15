@@ -15,10 +15,19 @@ Inni í þessu gagnasafni geymum við gögn úr Boot Camp Neskaupstað 2023.
 - [ ] Stöplar undir listaverk
 - [ ] Jesmonite afsteypun
 - [x] ESP32/RP2040 yfirferð
-  - [x]FABXIAO 
+  - [x] FABXIAO 
   - [x] FMCU
-   - Vestmannaeyjar
-   - Sauðárkrókur
+   - [ ] Akureyri
+   - [ ] Austurland
+   - [ ] Blönduós
+   - [ ] Húsavík
+   - [ ] Höfn í Hornafirði
+   - [ ] Ísafjörður
+   - [ ] Reykjavík
+   - [x] Sauðárkrókur
+   - [x] Selfoss
+   - [ ] Strandir
+   - [ ] Vestmannaeyjar
 - [ ] Rafrásafræsun
   - KiCAD
   - FlatCAM Tool Database
