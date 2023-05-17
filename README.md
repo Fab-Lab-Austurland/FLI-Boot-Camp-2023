@@ -17,6 +17,7 @@ Inni í þessu gagnasafni geymum við gögn úr Boot Camp Neskaupstað 2023.
 - [x] ESP32/RP2040 yfirferð
   - [x] FABXIAO 
   - [x] FMCU
+  
 Komin inn á FMCU: 
 - [ ] Akureyri
 - [ ] Austurland
