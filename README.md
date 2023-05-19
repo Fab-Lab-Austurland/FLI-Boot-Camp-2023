@@ -24,12 +24,12 @@ Komin inn á FMCU:
 - [ ] Blönduós
 - [ ] Húsavík
 - [ ] Höfn í Hornafirði
-- [ ] Ísafjörður
-- [ ] Reykjavík
+- [x] Ísafjörður
+- [x] Reykjavík
 - [x] Sauðárkrókur
 - [x] Selfoss
 - [ ] Strandir
-- [ ] Vestmannaeyjar
+- [x] Vestmannaeyjar
 - [ ] Rafrásafræsun
   - KiCAD
   - FlatCAM Tool Database
