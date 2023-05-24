@@ -1,2 +1,3 @@
 # Jesmonite
 á vinnustofuni var unnið með Jesmonite sem er......
+hjálp
