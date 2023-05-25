@@ -1,9 +1,7 @@
 # Git - Skjölun, skráningar og æfingar
 
 Yfir kaffi og góðu vínarbrauði frá Nesbæ var hópnum komið í betra samband við Git/Github. 
-[comment]: <> (![Git](https://raw.githubusercontent.com/Fab-Lab-Austurland/FLI-Boot-Camp-2023/main/img/)vinarbraud.jpg)
-
-![Git](img/vinarbraud.jpg)
+![Git](https://raw.githubusercontent.com/Fab-Lab-Austurland/FLI-Boot-Camp-2023/main/img/vinarbraud.jpg)
 
 Smiðjustjórum var kennt hvernig *Orginization* getur nýst hverri smiðju fyrir sig, þeir sem það kusu stofnuðu sín eigin og *fork*uðu [FMCU](https://github.com/Fab-Lab-Akureyri/fla-fmcu/) útgáfu [FLA](http://fla.is/) til að prófa sig áfram.
 
