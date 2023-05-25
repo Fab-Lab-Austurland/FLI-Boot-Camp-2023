@@ -1,6 +1,6 @@
 # FLI-Boot-Camp-2023
 
-Inni í þessu gagnasafni birtum við gögn úr Fab Lab Bootcamp Neskaupstað 2023.
+Með þessu gagnasafni birtum við gögn úr Fab Lab Bootcamp Neskaupstað 2023.
 
 **Við viljum fá valdar myndir inn, notið img möppuna**
 
