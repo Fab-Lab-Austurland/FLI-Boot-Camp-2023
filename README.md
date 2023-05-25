@@ -12,8 +12,8 @@ Inni í þessu gagnasafni birtum við gögn úr Fab Lab Bootcamp Neskaupstað 20
   - Almennar git æfingar
   - Organization
 - [ ] Bjórdælustandur
-- [ ] [Stöplar undir listaverk](projects/cnc_listaverk.md)
-- [ ] [Jesmonite afsteypun](projects/Jesmonite_afsteypun.md)
+- [ ] Stöplar undir listaverk
+- [ ] Jesmonite afsteypun
 - [x] ESP32/RP2040 yfirferð
   - [x] FABXIAO 
   - [x] FMCU
