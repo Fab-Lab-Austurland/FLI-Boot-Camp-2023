@@ -1,2 +1,3 @@
-remote_theme: minima
+remote_theme: slate
+
   - jekyll-remote-theme # add this line to the plugins list if you already have one
