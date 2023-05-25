@@ -2,6 +2,8 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
 **_Bætið við og hlekkið skjöl eftir þörfum_**
 
+[Bjórdælustandur](bjor.md)
+
 [Fab Academy](academy.md)
 
 [Beehive](Beehive.md)
