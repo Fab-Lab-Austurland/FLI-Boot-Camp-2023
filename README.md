@@ -13,7 +13,7 @@ Inni í þessu gagnasafni geymum við gögn úr Boot Camp Neskaupstað 2023.
   - Organization
 - [ ] Bjórdælustandur
 - [ ] Stöplar undir listaverk
-- [ ] Jesmonite afsteypun
+- [ ] [Jesmonite afsteypun](projects/Jesmonite_afsteypun.md)
 - [x] ESP32/RP2040 yfirferð
   - [x] FABXIAO 
   - [x] FMCU
