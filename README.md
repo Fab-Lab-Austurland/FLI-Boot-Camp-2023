@@ -17,10 +17,10 @@ Inni í þessu gagnasafni birtum við gögn úr Fab Lab Bootcamp Neskaupstað 20
 - [x] ESP32/RP2040 yfirferð
   - [x] FABXIAO 
   - [x] FMCU
-- [ ] Rafrásafræsun
-  - KiCAD
-  - FlatCAM Tool Database
-  - Laga rafrásafræsinn
+- [x] Rafrásafræsun
+  - [x] KiCAD
+  - [x] FlatCAM Tool Database
+  - [x] Laga rafrásafræsinn
 - [x] FAB academy
   - [x] Modular things
   - [x] Beehive
