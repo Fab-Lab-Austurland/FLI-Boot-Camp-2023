@@ -1,3 +1,2 @@
-remote_theme: mmistakes/minimal-mistakes@4.24.0
-plugins:
+remote_theme: minima
   - jekyll-remote-theme # add this line to the plugins list if you already have one
