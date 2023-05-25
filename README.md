@@ -2,6 +2,8 @@
 
 Með þessu gagnasafni birtum við gögn úr Fab Lab Bootcamp Neskaupstað 2023.
 
+[Hlekkur á "læsilegri" síðu](https://fab-lab-austurland.github.io/FLI-Boot-Camp-2023/)
+
 **Við viljum fá valdar myndir inn, notið img möppuna**
 
 ## Punktar af töflu
