@@ -1,24 +1,32 @@
 # FLI-Boot-Camp-2023
 
-Inni í þessu gagnasafni geymum við gögn úr Boot Camp Neskaupstað 2023.
+Inni í þessu gagnasafni birtum við gögn úr Fab Lab Bootcamp Neskaupstað 2023.
 
 **Við viljum fá valdar myndir inn, notið img möppuna**
 
-**Jón Þór ætlar að búa til CNC listaverk sem nær utan um ráðstefnuna.**
-
-## Punktar af töflu - TODO: Skjala hvert og eitt
+## Punktar af töflu
+### TODO: Skjala hvert og eitt
+### Notið [projects](projects) möppuna
 - [x] Skjölun með git á Github
   - Koma sem flestum inn á git
   - Almennar git æfingar
   - Organization
 - [ ] Bjórdælustandur
-- [ ] Stöplar undir listaverk
+- [ ] [Stöplar undir listaverk](projects/cnc_listaverk.md)
 - [ ] [Jesmonite afsteypun](projects/Jesmonite_afsteypun.md)
 - [x] ESP32/RP2040 yfirferð
   - [x] FABXIAO 
   - [x] FMCU
+- [ ] Rafrásafræsun
+  - KiCAD
+  - FlatCAM Tool Database
+  - Laga rafrásafræsinn
+- [ ] FAB academy
+  - Modular things
+  - Beehive
+  - Aðstoð/vinnstofur með Academy nemendum
 
-Komin inn á FMCU: 
+Komin inn á FMCU, hakið við þegar þið hafið náð sambandi:
 - [x] Akureyri
 - [ ] Austurland
 - [ ] Blönduós
@@ -30,14 +38,7 @@ Komin inn á FMCU:
 - [x] Selfoss
 - [ ] Strandir
 - [x] Vestmannaeyjar
-- [ ] Rafrásafræsun
-  - KiCAD
-  - FlatCAM Tool Database
-  - Laga rafrásafræsinn
-- [ ] FAB academy
-  - Modular things
-  - Beehive
-  - Aðstoð/vinnstofur með nemendum
+
 
 ## Git - Skjölun, skráningar og æfingar
 
