@@ -42,7 +42,6 @@ Komin inn á FMCU:
 ## Git - Skjölun, skráningar og æfingar
 
 Yfir kaffi og góðu vínarbrauði frá Nesbæ var hópnum komið í betra samband við Git/Github. 
-<div style="width:20%; margin: auto;">
 ![Git](img/vinarbraud.jpg)
  </div>
 
