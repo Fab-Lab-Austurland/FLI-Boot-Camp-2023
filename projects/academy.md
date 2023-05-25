@@ -18,7 +18,7 @@ Námið er skipulagt og því stýrt af [Neil Gershenfeld](https://en.wikipedia.
 
 ## Kynningar og nýjungar
 
-Á _bootcampinu_ fóru þau Andri, Árni, Hafey og Svavar yfir námið í heild sinni, hvernig upplifunin af því er, hvernig þeim sjálfum hefur gengið fram að þessu og hvaða nýjunar hafa verið kynntar á árinu. 
+Á vinnustofunni fóru þau Árni, Hafey og Svavar yfir námið í heild sinni, hvernig upplifunin af því er, hvernig þeim sjálfum hefur gengið fram að þessu og hvaða nýjunar hafa verið kynntar á árinu. 
 
 Meðal nýjuna má nefna: 
 
