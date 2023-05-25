@@ -1,6 +1,6 @@
 Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 
-**_Hlekkið skjöl eftir þörfum_**
+**_Bætið við og hlekkið skjöl eftir þörfum_**
 
 [Fab Academy](academy.md)
 
@@ -17,3 +17,5 @@ Hér verður skjalfest öll verkefni, kynningar og heimsóknir frá vinnustofuni
 [Modular Things](modularthings.md)
 
 [Xiao](xiao.md)
+
+[Rafrásafræsun](electronics.md)

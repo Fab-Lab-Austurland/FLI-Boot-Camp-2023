@@ -21,10 +21,10 @@ Inni í þessu gagnasafni birtum við gögn úr Fab Lab Bootcamp Neskaupstað 20
   - KiCAD
   - FlatCAM Tool Database
   - Laga rafrásafræsinn
-- [ ] FAB academy
-  - Modular things
-  - Beehive
-  - Aðstoð/vinnstofur með Academy nemendum
+- [x] FAB academy
+  - [x] Modular things
+  - [x] Beehive
+  - [x] Aðstoð/vinnstofur með Academy nemendum
 
 Komin inn á FMCU, hakið við þegar þið hafið náð sambandi:
 - [x] Akureyri
