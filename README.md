@@ -42,8 +42,9 @@ Komin inn á FMCU:
 ## Git - Skjölun, skráningar og æfingar
 
 Yfir kaffi og góðu vínarbrauði frá Nesbæ var hópnum komið í betra samband við Git/Github. 
-
+<div style="width:20%; margin: auto;">
 ![Git](img/vinarbraud.jpg)
+ </div>
 
 Smiðjustjórum var kennt hvernig *Orginization* getur nýst hverri smiðju fyrir sig, þeir sem það kusu stofnuðu sín eigin og *fork*uðu [FMCU](https://github.com/Fab-Lab-Akureyri/fla-fmcu/) útgáfu [FLA](http://fla.is/) til að prófa sig áfram.
 
