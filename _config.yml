@@ -12,6 +12,9 @@ plugins:
 # --- List of links in the navigation bar --- #
 ###############################################
 
+layouts:
+  - custom
+  
 navbar-links:
   dagskrá: "dagskra"
   verkefni: "/projects/"
