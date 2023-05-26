@@ -13,9 +13,9 @@ plugins:
 ###############################################
 
 navbar-links:
-  dagskrá: "/dagskra.md"
+  dagskrá: "/dagskra.md/"
   verkefni: "/projects/"
-  verkefni:
+  verkefninn:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   fablab.is: "https://fablab.is/"
