@@ -7,3 +7,15 @@ plugins:
 - jekyll-feed
 - jemoji
 - jekyll-include-cache
+
+header_pages:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Blog
+    url: /blog/
+  - title: Projects
+    url: /projects/
+  - title: Schedule
+    url: /schedule/
