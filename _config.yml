@@ -13,8 +13,8 @@ plugins:
 ###############################################
 
 navbar-links:
-  dagskrá: "/projects/"
-  verkefni: "https://fab-lab-austurland.github.io/FLI-Boot-Camp-2023/projects/"
+  dagskrá: "/dagskra.md"
+  verkefni: "/projects/"
   verkefni:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -45,11 +45,11 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: "https://www.facebook.com/FabLabIsland"
-  github: "https://github.com/Fab-Lab-Austurland/FLI-Boot-Camp-2023"
+  facebook: FabLabIsland
+  github: Fab-Lab-Austurland/FLI-Boot-Camp-2023
 # twitter: daattali
 # patreon: DeanAttali
-  youtube: "https://www.youtube.com/user/fablabisland"
+  youtube: fablabisland
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -235,16 +235,48 @@ footer-hover-col: "#0085A1"
 # Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
 
-# Facebook App ID
-#fb_app_id: ""
+#################################################################################
+# --- You don't need to touch anything below here (but you can if you want) --- #
+#################################################################################
+
+# Output options (more information on Jekyll's site)
+timezone: "America/Toronto"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+
+kramdown:
+  input: GFM
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # any file that's not a post will be a "page" layout by default
+    values:
+      layout: "page"
 
 # Exclude these files from production site
 exclude:
-  #- CHANGELOG.md
-  #- CNAME
-  #- Gemfile
-  #- Gemfile.lock
-  #- LICENSE
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
   - README.md
- # - screenshot.png
- # - docs/
+  - screenshot.png
+  - docs/
+
+# Facebook App ID
+#fb_app_id: ""
+
+
