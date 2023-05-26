@@ -18,10 +18,6 @@ layouts:
 navbar-links:
   dagskrá: "dagskra"
   verkefni: "/projects/"
-  dropdown: true
-  verkefninn:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   fablab.is: "https://fablab.is/"
 
 ################
