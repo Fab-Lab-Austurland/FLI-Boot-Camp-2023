@@ -15,7 +15,7 @@ plugins:
 navbar-links:
   dagskrá: "dagskra"
   verkefni: "/projects/"
-    dropdown: true
+  dropdown: true
   verkefninn:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
