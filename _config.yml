@@ -13,7 +13,7 @@ plugins:
 ###############################################
 
 navbar-links:
-  dagskrá: "/dagskra.md/"
+  dagskrá: "dagskra"
   verkefni: "/projects/"
   verkefninn:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
