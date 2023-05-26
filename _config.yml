@@ -1,4 +1,4 @@
-remote_theme: "https://github.com/mmistakes/minimal-mistakes"
+remote_theme: "https://github.com/alshedivat/al-folio"
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-paginate
