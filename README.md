@@ -15,7 +15,7 @@ Með þessu gagnasafni birtum við gögn úr Fab Lab Bootcamp Neskaupstað 2023.
   - Organization
 - [ ] Bjórdælustandur
 - [ ] Stöplar undir listaverk
-- [ ] Jesmonite afsteypun
+- [x] Jesmonite afsteypun
 - [x] ESP32/RP2040 yfirferð
   - [x] FABXIAO 
   - [x] FMCU
