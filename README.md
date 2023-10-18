@@ -13,7 +13,7 @@ Með þessu gagnasafni birtum við gögn úr Fab Lab Bootcamp Neskaupstað 2023.
   - Koma sem flestum inn á git
   - Almennar git æfingar
   - Organization
-- [ ] Bjórdælustandur
+- [x] Bjórdælustandur
 - [ ] Stöplar undir listaverk
 - [x] Jesmonite afsteypun
 - [x] ESP32/RP2040 yfirferð
